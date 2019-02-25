@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>Hurricane</label>
+		<id>8</id>
+		<version>0</version>
+	</settings>
+	<users>
+		<user>
+			<path>Hurricane.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>Hurricane.jcp</path>
+		</project>
+	</projects>
+</workspace>
